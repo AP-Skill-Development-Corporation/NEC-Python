@@ -11,4 +11,4 @@ Python Session for MCA Students
   - Remaining list methods with sample examples on each
   - Tuple,Dictionary methods with sample examples on each
   - String and some methods explanation with sample examples on each
-  - Recording Video Link [Click Here]()
+  - Recording Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5f13d023c45ce0567f3afd0cde44211f6cc0954c24d573ecd87e7e72621af64a)
