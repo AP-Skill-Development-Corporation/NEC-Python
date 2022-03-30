@@ -1,0 +1,18 @@
+Day-09[30-03-2022]:
+===================
+	Good Morning to All..
+	Try to practice hackerrank problems if not try to practice previous problems related to loops,conditional statements,Data Structures concepts like [List,Tuple,Dictionary] etc., If you all know those concepts try to solve below problem
+	
+	Task-1: Print the number frequencies in a number
+	=================================================
+		Input:
+			Enter a number: 12457896857
+		Output:
+			1 => 1
+			2 => 1
+			4 => 1
+			5 => 2
+			6 => 1
+			7 => 2
+			8 => 2
+			9 => 1
