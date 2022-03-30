@@ -12,3 +12,9 @@ Python Session for MCA Students
   - Tuple,Dictionary methods with sample examples on each
   - String and some methods explanation with sample examples on each
   - Recording Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5f13d023c45ce0567f3afd0cde44211f6cc0954c24d573ecd87e7e72621af64a)
+
+## Day-09(30-03-2022):
+  - Remaining String Methods with sample examples on each
+  - Set and its methods with sample examples on each
+  - Practiced 3 problems in Hackerrank
+  - Recording Video Link [Click Here]()
