@@ -22,4 +22,4 @@ Python Session for MCA Students
 ## Day-10(31-03-2022):
   - Function argument types with sample examples on each
   - Packages and modules with smaple examples on each
-  - Recording Video Link [Click Here]()
+  - Recording Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/ac055c0fc95d38616c69c8ca02befdff0ee12f87916faeafae9fd5073d26040c)
