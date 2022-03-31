@@ -18,3 +18,8 @@ Python Session for MCA Students
   - Set and its methods with sample examples on each
   - Practiced 3 problems in Hackerrank
   - Recording Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/45a7f917116e6d5f5054f262e3739804a07ef84d560ef9de8d4edf781529d162)
+
+## Day-10(31-03-2022):
+  - Function argument types with sample examples on each
+  - Packages and modules with smaple examples on each
+  - Recording Video Link [Click Here]()
