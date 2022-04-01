@@ -21,5 +21,13 @@ Python Session for MCA Students
 
 ## Day-10(31-03-2022):
   - Function argument types with sample examples on each
-  - Packages and modules with smaple examples on each
+  - Packages and modules with sample examples on each
   - Recording Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/ac055c0fc95d38616c69c8ca02befdff0ee12f87916faeafae9fd5073d26040c)
+
+## Day-11(01-04-2022):
+  - Files concept with sample examples on each mode with each extension
+  - Comprehensions with sample examples on each
+  - Recording Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/afefc5d5eae367487faf7b89da2f706f8c9be041abed16cf99dc69f0ffc56f73)
+
+## References to Learn Python:
+  - programiz.com,w3school.com,tutorialspoint.com,dyclassroom.com,geeksforgeeks.com,codeforwin.com,sanfoundry.com,javatpoint.com
